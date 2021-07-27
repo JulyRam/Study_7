@@ -4,7 +4,7 @@ public class WrapperMain3 {
 
 	public static void main(String[] args) {
 		
-		String jumin = "960715-1041615";
+		String jumin = "960715-1522245";
 		String n1 = jumin.substring(0, 1); String n2 = jumin.substring(1, 2);
 		String n3 = jumin.substring(2, 3); String n4 = jumin.substring(3, 4);
 		String n5 = jumin.substring(4, 5); String n6 = jumin.substring(5, 6);
