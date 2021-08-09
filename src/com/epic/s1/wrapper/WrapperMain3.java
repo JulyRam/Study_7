@@ -4,7 +4,7 @@ public class WrapperMain3 {
 
 	public static void main(String[] args) {
 		
-		String jumin = "960715-1522245";
+		String jumin = "991224-1234567";
 		String n1 = jumin.substring(0, 1); String n2 = jumin.substring(1, 2);
 		String n3 = jumin.substring(2, 3); String n4 = jumin.substring(3, 4);
 		String n5 = jumin.substring(4, 5); String n6 = jumin.substring(5, 6);
@@ -33,6 +33,9 @@ public class WrapperMain3 {
 			System.out.println("잘못된 정보입니다.");
 		}
 		
+		System.out.println("-----Math-----");
+		double d = Math.random();
+		System.out.println(d);
 		
 	}
 
